@@ -4,7 +4,7 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
   
 "sites":[
-{"key": "csp_Kkys","name": "可可影视","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://raw.githubusercontent.com/chenbuchenya/chenbuchen/main/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
+{"key": "csp_Kkys","name": "可可影视","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://raw.githubusercontent.com/chenbuchenya/chenbuchen/main/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json","jar":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq0801.jar""},
 {"key": "南瓜","name": "🎃南瓜App","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","playerType":1,"searchable":1,"quickSearch":1,"jar":"https://gitee.com/wuyougouwu/tvsource/raw/master/jar/77.jar;md5;A0C72C940A5E8E19E425F437D48942F2","filterable":1},
 //{"key":"drpy_js_酷云七七","name":"👒酷云 | 七七","type":3,"api":"https://agit.ai/30215429/TVBox/raw/branch/master/JS/lib/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/AZERta/%E9%85%B7%E4%BA%9177.js"},
